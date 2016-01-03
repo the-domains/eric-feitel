@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: User acquisition campaign encouraging current user to invite their friends.
-datePublished: '2016-01-02T03:45:57.688Z'
-dateModified: '2016-01-02T03:45:26.078Z'
+datePublished: '2016-01-03T06:18:57.595Z'
+dateModified: '2016-01-02T03:45:57.688Z'
 title: Best Buds / Ibotta
 author: []
 authors: []
