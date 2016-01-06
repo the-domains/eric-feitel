@@ -1,7 +1,7 @@
 name: Eric Feitel
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5035
+typography_spectrum: 0.91426
 title: Eric Feitel
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.875
-  rhythmicContrast: 0.75
+    - '#9dc6c8'
+    - '#d6a999'
+    - '#ae5d38'
+    - '#026e57'
+    - '#59281e'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
