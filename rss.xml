@@ -4,13 +4,20 @@
         <description><![CDATA[Eric Feitel]]></description>
         <link>https://thegrid.ai/eric-feitel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 22:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 22:44:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eric-feitel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lorem Ipsum 4 ]]></title>
             <description><![CDATA[<article><h1>Lorem Ipsum 4 </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30be8dd4991333ab9efb71bc257bdb7b20147c9d.jpg"></article>]]></description>
             <link>https://thegrid.ai/eric-feitel/lorem-ipsum-4/index.html</link>
             <guid isPermaLink="false">224ac961-fbba-4e90-9396-c9868ffd33cd</guid>
+            <pubDate>Wed, 06 Jan 2016 22:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lorem ipsum 1]]></title>
+            <description><![CDATA[<article><h1>Lorem ipsum 1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a1a880adb68a97631fc36e9267197cecb18c773.jpg"></article>]]></description>
+            <link>https://thegrid.ai/eric-feitel/lorem-ipsum-1/index.html</link>
+            <guid isPermaLink="false">626f7653-7807-44c2-a61d-405260c53bfd</guid>
             <pubDate>Wed, 06 Jan 2016 22:43:12 GMT</pubDate>
         </item>
         <item>
