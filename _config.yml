@@ -1,7 +1,7 @@
 name: Eric Feitel
 favicon: null
-layout_spectrum: 0.26111
-typography_spectrum: 0.91426
+layout_spectrum: 1
+typography_spectrum: 0.8858
 title: Eric Feitel
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ae5d38'
     - '#026e57'
     - '#59281e'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
