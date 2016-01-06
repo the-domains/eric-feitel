@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Eric Feitel]]></title>
         <description><![CDATA[Eric Feitel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eric-feitel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 22:43:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 22:43:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eric-feitel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lorem Ipsum 4 ]]></title>
             <description><![CDATA[<article><h1>Lorem Ipsum 4 </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30be8dd4991333ab9efb71bc257bdb7b20147c9d.jpg"></article>]]></description>
-            <link>undefinedlorem-ipsum-4/index.html</link>
+            <link>https://thegrid.ai/eric-feitel/lorem-ipsum-4/index.html</link>
             <guid isPermaLink="false">224ac961-fbba-4e90-9396-c9868ffd33cd</guid>
+            <pubDate>Wed, 06 Jan 2016 22:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lorem Ipsum 2]]></title>
+            <description><![CDATA[<article><h1>Lorem Ipsum 2</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales porta porttitor. Mauris eu mauris magna. Morbi volutpat dapibus imperdiet. Morbi dapibus vel mi et gravida. In id nunc vel libero tincidunt efficitur et in ligula. Morbi tempus urna sit amet sagittis volutpat. Suspendisse id consectetur est, nec tincidunt diam. Etiam dapibus ex dapibus odio maximus, vel elementum lacus lacinia. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed cursus sodales arcu a condimentum. Nulla at libero leo. Suspendisse potenti. Ut egestas commodo enim. Etiam mollis hendrerit mi, non maximus dui aliquam at.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bc6020d368144cafb6fef2a45b443450883c52a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/eric-feitel/lorem-ipsum-2/index.html</link>
+            <guid isPermaLink="false">cfd13e08-08e9-40b1-b621-ec0b717acc3d</guid>
             <pubDate>Wed, 06 Jan 2016 22:43:12 GMT</pubDate>
         </item>
     </channel>
